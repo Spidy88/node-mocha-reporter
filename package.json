@@ -1,0 +1,23 @@
+{
+  "name": "node-mocha-reporter",
+  "version": "1.0.0",
+  "description": "A mocha reporter not tied to STDOUT that provides tests results in a json object",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spidy88/node-mocha-reporter.git"
+  },
+  "keywords": [
+    "mocha",
+    "reporter"
+  ],
+  "author": "Nick Ferraro <the.nick.ferraro@gmail.com>",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/Spidy88/node-mocha-reporter/issues"
+  },
+  "homepage": "https://github.com/Spidy88/node-mocha-reporter#readme"
+}
