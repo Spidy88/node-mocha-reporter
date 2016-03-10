@@ -1,6 +1,6 @@
 {
   "name": "node-mocha-reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A mocha reporter not tied to STDOUT that provides tests results in a json object",
   "main": "index.js",
   "scripts": {
